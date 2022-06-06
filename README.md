@@ -1,6 +1,6 @@
 # Islami Application
 
-A nice application to read quran and ahadeth whenever you want
+A nice application to read quran,ahadeth or listen to islamic radio whenever you want
 
 ## Getting Started
 
